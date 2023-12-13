@@ -1,2 +1,2 @@
 SYSTEM-B
-Hi there, bar!
+Hi there, Bar!
